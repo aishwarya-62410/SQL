@@ -1,0 +1,7 @@
+OBJECTIVE:
+
+Designing a real-time weather monitoring and analysis system. 
+The system should gather weather data from various locations, store it efficiently, and provide analytical insights to users.
+
+●	Implement mechanisms to periodically fetch new data from the weather data API and update the database accordingly.
+●	Ensure data consistency and accuracy by handling errors and exceptions during data retrieval and storage processes.
